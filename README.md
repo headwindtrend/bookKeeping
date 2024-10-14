@@ -8,3 +8,5 @@ if you use it together with my `usefulsearch` plugin which provides a powerful s
 note: since the auto-recalc is triggered by the "=" character, if you delete a transaction in the past, you need to manually use the "=" for the one prior to the deleted one to trigger the recalc.
 
 i included two sample files for you to try the features.
+
+If you appreciate my work, i will be very grateful if you can support my work by making small sum donation thru PayPal with `Send payment to` entered as `headwindtrend@gmail.com`. Thank you very much for your support.
